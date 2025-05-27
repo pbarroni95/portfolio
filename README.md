@@ -24,29 +24,29 @@ Skilled in translating raw data into strategic insights to optimize operations, 
 ###  PROFESSIONAL EXPERIENCE
 
 
-## Senior BI Analyst – Mobile Business - Telecommunications Industry
-# Telecom Argentina | July 2021 – Present
+# Senior BI Analyst – Mobile Business - Telecommunications Industry
+## Telecom Argentina | July 2021 – Present
 
 End-to-end Power BI Development: Designed and maintained interactive dashboards for business performance, enabling data-driven decisions by senior leadership. 
 Data Modeling & Validation: Built scalable data models and implemented quality checks to ensure accuracy in sales and operational reports. 
 Cross-functional Collaboration: Partnered with commercial and IT teams to gather requirements and align BI solutions with business goals. 
 Tech Enablement: Trained partners and teams on Power BI usage and best practices, improving adoption and migrating old reports to Power BI reports.
 
-## Ssr Commercial Intelligence Analyst (B2C)
-# Telecom Argentina | August 2019 – July 2021
+# Ssr Commercial Intelligence Analyst (B2C)
+## Telecom Argentina | August 2019 – July 2021
 
 Sales Performance Analytics: Developed Power BI reports to track KPIs and identify trends, leading to a 15% increase in sales efficiency. 
 Data-Driven Campaigns: Designed and monitored promotional strategies based on analytics, achieving annual sales targets. 
 Process Optimization: Automated manual reports, reducing generation time from 1 day or more to 1 hour.
 
-##  Commercial Strategy Analyst – Customer Retention
-# Telecom Argentina | May 2018 – August 2019
+# Commercial Strategy Analyst – Customer Retention
+## Telecom Argentina | May 2018 – August 2019
 
  Predictive Analytics: Created probabilistic models to support retention campaigns, improving customer lifetime value by 20%.
  Stakeholder Management: Delivered actionable insights to marketing and sales teams, aligning data strategy with business objectives.
 
-## Competitive Intelligence Analyst
-#  Telecom Argentina | August 2017 – May 2018
+# Competitive Intelligence Analyst
+## Telecom Argentina | August 2017 – May 2018
 
 Market & Competitive Analysis: Developed real-time Excel dashboards and data matrices to track competitor pricing, promotions, and market trends, enabling rapid strategic adjustments.
 Actionable Insights: Delivered data-driven recommendations to executives, influencing product positioning and commercial strategies. 
