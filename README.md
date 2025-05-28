@@ -2,8 +2,9 @@
 
 #  PROFESSIONAL SUMMARY
 
- I'am a 29 years old Data Analyst & Power BI Specialist with 5+ years of experience designing scalable BI solutions that drive business growth. Expert in end-to-end Power BI development, from data modeling to stakeholder-friendly dashboards, with a strong focus on sales performance analysis, inventory and process automation to achieve annual sales objectives and strategies. 
-Skilled in translating raw data into strategic insights to optimize operations, reduce costs, and support decision making. Combines technical expertise (DAX, SQL) with UX/UI principles to create intuitive reports and train teams on core systems. Proven ability to lead data-driven projects and collaborate with cross-functional stakeholders in fast-paced environments.
+Hello! I am Paula, a 29-year-old Data Analyst & Power BI Specialist with over five years of experience designing scalable BI solutions that drive business growth and operational efficiency. I specialize in end-to-end Power BI development, including data modeling with DAX, SQL querying, and ETL workflows, along with advanced analytics and process automation to reduce costs and support data-driven decisions. My expertise lies in transforming raw data into actionable insights, leading full-scale migrations from legacy systems like Excel and Access to Power BI, and training cross-functional teams on BI tools. By combining technical skills in Python and AI tools with UX/UI design principles, I build intuitive dashboards that solve complex business challenges in fast-paced environments.
+
+
 
 # EDUCATION
 
@@ -24,30 +25,33 @@ Skilled in translating raw data into strategic insights to optimize operations, 
 #  PROFESSIONAL EXPERIENCE
 
 
-## Senior BI Analyst – Mobile Business - Telecommunications Industry
+## Sr. BI Analyst – Mobile Business - Telecommunications Industry
 ### Telecom Argentina | July 2021 – Present
 
-- End-to-end Power BI Development: Designed and maintained interactive dashboards for business performance, enabling data-driven decisions by senior leadership. 
-- Data Modeling & Validation: Built scalable data models and implemented quality checks to ensure accuracy in sales and operational reports. 
-- Cross-functional Collaboration: Partnered with commercial and IT teams to gather requirements and align BI solutions with business goals. 
-- Tech Enablement: Trained partners and teams on Power BI usage and best practices, improving adoption and migrating old reports to Power BI reports.
+- Led migration of 100% of operational reports from Excel/Access to Power BI dashboards, improving real-time decision-making and operational efficiency.
+- Trained teams in end-to-end data workflows: ETL (SQL), modeling, and visualization (DAX).
+- Reduced pending customer activations by implementing real-time tracking and routing to relevant teams.
+- Cut customer rejection rates by analyzing root causes and optimizing processes.
+- Lowered logistics costs by eliminating duplicate/triplicate SIM shipments due to CRM errors.
+- Improved NPS scores by identifying bottlenecks in operational/logistic processes.
+- Developed internal web tools (Python/JS) to replace legacy Access workflows, reducing processing time.
 
-## Ssr Commercial Intelligence Analyst (B2C)
+## Ssr. Commercial Intelligence Analyst (B2C - Sales)
 ### Telecom Argentina | August 2019 – July 2021
 
-- Sales Performance Analytics: Developed Power BI reports to track KPIs and identify trends, leading to a 15% increase in sales efficiency. 
-- Data-Driven Campaigns: Designed and monitored promotional strategies based on analytics, achieving annual sales targets. 
-- Process Optimization: Automated manual reports, reducing generation time from 1 day or more to 1 hour.
+- Designed strategic dashboards (weekly/monthly/annual) for multicannel commercial tracking and KPI monitoring.
+- Drove sales growth through data insights to meet budget targets.
+- Optimized marketing campaigns by prioritizing high-impact zones, reducing costly/low-effort channels (e.g., call centers).
+- Achieved 100% migration of legacy reports (Excel/PPT) to Power BI, accelerating data availability.
 
-## Commercial Strategy Analyst – Customer Retention
+## Ssr. Commercial Strategy Analyst (B2C – Retention)
 ### Telecom Argentina | May 2018 – August 2019
 
- - Predictive Analytics: Created probabilistic models to support retention campaigns, improving customer lifetime value by 20%.
- - Stakeholder Management: Delivered actionable insights to marketing and sales teams, aligning data strategy with business objectives.
+- Built probabilistic models to target retention campaigns, reducing churn through proactive offers.
+- Tracked digital/commercial metrics to measure campaign success.
 
-## Competitive Intelligence Analyst
+## Jr. Competitive Intelligence Analyst
 ### Telecom Argentina | August 2017 – May 2018
 
-- Market & Competitive Analysis: Developed real-time Excel dashboards and data matrices to track competitor pricing, promotions, and market trends, enabling rapid strategic adjustments.
-- Actionable Insights: Delivered data-driven recommendations to executives, influencing product positioning and commercial strategies. 
-- Advanced Excel Modeling: Built dynamic tools to automate competitive benchmarking, reducing manual analysis time.
+- Developed real-time Excel dashboards to track competitor pricing/promotions, enabling agile commercial adjustments.
+- Automated benchmarks using Excel macros/pivot tables, saving hours of manual analysis.
