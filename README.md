@@ -8,7 +8,7 @@ Skilled in translating raw data into strategic insights to optimize operations, 
 # EDUCATION
 
  University of Buenos Aires (UBA) -  Bachelor’s Degree in Business Administration
- 2014 – Present (30/31 courses completed)
+ 2014 – Present (28/31 courses completed)
 
 #  SKILLS & TOOLS
 
